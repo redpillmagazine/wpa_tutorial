@@ -1,0 +1,45 @@
+{
+"manifest_version": 1,
+"version": "1.0.0",
+"short_name": "Red Pill",
+"name": "Red Pill Magazine",
+"description": "Red Pill Magazine: la vostra pillola rossa.",
+"icons": [
+{
+"src": "/images/iconewpa/512x512px.png",
+"sizes": "512x512",
+"type": "image/png"
+},
+{
+"src": "/images/iconewpa/384x384px.png",
+"sizes": "384x384",
+"type": "image/png"
+},
+{
+"src": "/images/iconewpa/256x256px.png",
+"sizes": "256x256",
+"type": "image/png"
+},
+  {
+"src": "/images/iconewpa/192x192px.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "/images/iconewpa/152x152px.png",
+"sizes": "152x152",
+"type": "image/png"
+},
+{
+"src": "/images/iconewpa/144x144px.png",
+"sizes": "144x144",
+"type": "image/png"
+},
+],
+"start_url": ".", 
+"lang": "it-IT",
+"background_color": "#424242",
+"theme_color": "#cc194b",
+"display": "standalone",
+"orientation": "portrait-primary"
+}
